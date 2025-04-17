@@ -9,10 +9,9 @@
 <p align="left">
 <a href="https://twitter.com/mesonwakerkwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mesonwakerkwa" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/meson wakerkwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meson wakerkwa" height="30" width="40" /></a>
-  <a href="https://fb.com/meson wakerkwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="meson wakerkwa" height="30" width="40" /></a>
-  <a href="https://instagram.com/meson wakerkwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="meson wakerkwa" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/Meson Wakerkwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="meson wakerkwa" height="30" width="40" /></a>
-</p>
 
+  <a href="https://www.facebook.com/Mesonofficial99?mibextid=rS40aB7S9Ucbxw6v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="meson wakerkwa" height="30" width="40" /></a>
+
+  <a href="https://www.instagram.com/meson9918?igsh=YXM0ZWp1c2VsMWtt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="meson wakerkwa" height="30" width="40" /></a>
  <a href="https://www.youtube.com/@Channelmesonwakerkwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="meson wakerkwa" height="30" width="40" /></a>
 </p>
