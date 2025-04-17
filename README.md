@@ -13,3 +13,6 @@
   <a href="https://instagram.com/meson wakerkwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="meson wakerkwa" height="30" width="40" /></a>
   <a href="https://www.youtube.com/c/Meson Wakerkwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="meson wakerkwa" height="30" width="40" /></a>
 </p>
+
+ <a href="https://www.youtube.com/@Channelmesonwakerkwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="meson wakerkwa" height="30" width="40" /></a>
+</p>
