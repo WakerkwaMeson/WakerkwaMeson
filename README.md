@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Meson Wakerkwa</h1>
+<h1 align="center">Hi 👋, I'm Rois Wanimbo</h1>
 <h3 align="center">A passionate frontend developer from Papua</h3>
 
-- 🔭 I’m currently working on [my dream](https://github.com/WakerkwaMeson)
-- 
+- 🔭 I’m currently working on [my dream](https://github.com/Roiswanimbo)
+-
 - 👯 I’m looking to collaborate on [with the sacode community](http://www.sacode.web.id/)
 
 <h3 align="left">Connect with me:</h3>
