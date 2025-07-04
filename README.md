@@ -10,7 +10,7 @@
 <a href="https://www.linkedin.com/in/meson-wakerkwa-a005b4243?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meson wakerkwa" height="30" width="40" /></a>  
   <a href="https://www.facebook.com/Mesonofficial99?mibextid=rS40aB7S9Ucbxw6v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="meson wakerkwa" height="30" width="40" /></a>  
   <a href="https://www.instagram.com/meson9918?igsh=YXM0ZWp1c2VsMWtt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="meson wakerkwa" height="30" width="40" /></a>  
- <a href="https://www.youtube.com/@Channelmesonwakerkwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="meson wakerkwa" height="30" width="40" /></a>
+ <a href="https://www.youtube.com/@Mesonwakerkwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="meson wakerkwa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
