@@ -19,7 +19,8 @@
 ------------------------------------------------------------------------</>>------------------------------------------------------------------------
 
 
-<h1 align="center">Hi, I'm Meson Wakerkwa 👋</h1> 
+<h1 align="center">Hi, I'm Meson Wakerkwa 👋</h1>
+
 <p align="center">
   🔥 Passionate Web Developer | 🧠 Creative Designer | ☕ Coffee Lover
 </p>
@@ -27,17 +28,20 @@
 ---
 
 ### 🌐 About Me
-I'm a web developer based in Indonesia, building websites for schools, local businesses, and coffee brands like *Kopi Tiom. I love creating responsive, animated, and clean designs using **HTML, **CSS, and **JavaScript*.
+
+I'm a web developer based in **Indonesia**, building websites for **schools**, **local businesses**, and **coffee brands** like *Kopi Tiom*.  
+I love creating **responsive**, **animated**, and **clean designs** using **HTML**, **CSS**, and **JavaScript**.
 
 > "Kopi, kode, dan kreativitas berjalan bersama."
 
 ---
 
 ### 🛠 Tech Stack
-- 💻 Languages: HTML, CSS, JavaScript
-- 🎨 Tools: Figma, Canva, VS Code
-- 🧩 Libraries: Swiper.js, Bootstrap
-- 🌍 Deployment: GitHub Pages
+
+- 💻 **Languages**: HTML, CSS, JavaScript  
+- 🎨 **Tools**: Figma, Canva, VS Code  
+- 🧩 **Libraries**: Swiper.js, Bootstrap  
+- 🌍 **Deployment**: GitHub Pages  
 
 ---
 
@@ -45,24 +49,30 @@ I'm a web developer based in Indonesia, building websites for schools, local bus
 
 | Project Name               | Description                             | Link |
 |---------------------------|-----------------------------------------|------|
-| 🌱 *Portofolio Meson*    | Personal portfolio site with Swiper.js  | [View](https://mesonwakerkwa.github.io/portofolio) |
-| 🎓 *SMP Negeri 4 Pirime* | Full school website (HTML/CSS/JS)       | [View](https://mesonwakerkwa.github.io/smpn4pirime) |
-| ☕ *Kopi Tiom*            | Free e-commerce for coffee lovers       | [View](https://mesonwakerkwa.github.io/kopitiom) |
+| 🌱 *Portofolio Meson*     | Personal portfolio site with Swiper.js  | [View](https://mesonwakerkwa.github.io/portofolio) |
+| 🎓 *SMP Negeri 4 Pirime*  | Full school website (HTML/CSS/JS)       | [View](https://mesonwakerkwa.github.io/smpn4pirime) |
+| ☕ *Kopi Tiom*             | Free e-commerce for coffee lovers       | [View](https://mesonwakerkwa.github.io/kopitiom) |
 
 ---
 
 ### ✍ Quotes & Words
+
 > “Rasa kopi tidak hanya dinikmati, tapi dimaknai.”  
-> — Meson Wakerkwa
+> — *Meson Wakerkwa*
 
 > “Bangun website bukan hanya soal kode, tapi tentang menghadirkan kesan yang hidup.”
 
 ---
 
 ### 📫 Let's Connect
-- 📷 [Instagram](https://instagram.com/mesonwakerkwa)
-- 💼 [LinkedIn](https://linkedin.com/in/mesonwakerkwa) (jika ada)
-- ✉ Email: mesonwakerkwa@gmail.com
+
+- 📷 **Instagram**: [@mesonwakerkwa](https://www.instagram.com/meson9918/)
+- 💼 **LinkedIn**: [Meson Wakerkwa](https://www.linkedin.com/in/meson-wakerkwa-a005b4243/)
+- 🎥 **YouTube**: [Meson Wakerkwa](https://www.youtube.com/@Mesonwakerkwa)
+- 🐱 **GitHub**: [@mesonwakerkwa](https://github.com/Meson99W)
+- 🐦 **Twitter** [@mesonwakerkwa](https://x.com/MesonWaker61948)
+- 📘 **Facebook**: [Meson Wakerkwa](https://www.facebook.com/meson.wakerkwa.9918)
+- ✉️ **Email**: mesonwakerkwa734@gmail.com
 
 ---
 
