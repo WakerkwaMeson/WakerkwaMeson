@@ -88,6 +88,7 @@ I love creating **responsive**, **animated**, and **clean designs** using **HTML
 </p>
 
 ✉️ **Email**: mesonwakerkwa@gmail.com
+
 ---
 
 <p align="center">
