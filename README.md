@@ -66,8 +66,28 @@ I love creating **responsive**, **animated**, and **clean designs** using **HTML
 
 ### 📫 Let's Connect
 
-- 📷 **Instagram**: [Meson9918](https://www.instagram.com/meson9918/) - 💼 **LinkedIn**: [Meson Wakerkwa](https://www.linkedin.com/in/meson-wakerkwa-a005b4243/) - 🎥 **YouTube**: [Meson Wakerkwa](https://www.youtube.com/@Mesonwakerkwa) - 🐱 **GitHub**: [Meson99W](https://github.com/Meson99W) - 🐦 **Twitter** [Mesonwakerkwa](https://x.com/MesonWaker61948) - 📘 **Facebook**: [Meson Wakerkwa](https://www.facebook.com/meson.wakerkwa.9918)  - ✉️ **Email**: mesonwakerkwa734@gmail.com
+<p align="left">
+  <a href="https://instagram.com/mesonwakerkwa" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="30" />
+  </a>
+  <a href="https://linkedin.com/in/mesonwakerkwa" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" />
+  </a>
+  <a href="https://youtube.com/@mesonwakerkwa" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" alt="YouTube" width="30" />
+  </a>
+  <a href="https://github.com/mesonwakerkwa" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" />
+  </a>
+  <a href="https://twitter.com/mesonwakerkwa" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="30" />
+  </a>
+  <a href="https://facebook.com/mesonwakerkwa" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="30" />
+  </a>
+</p>
 
+✉️ **Email**: mesonwakerkwa@gmail.com
 ---
 
 <p align="center">
