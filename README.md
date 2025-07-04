@@ -51,7 +51,9 @@ I love creating **responsive**, **animated**, and **clean designs** using **HTML
 |---------------------------|-----------------------------------------|------|
 | 🌱 *Portofolio Meson*     | Personal portfolio site with Swiper.js  | [View](https://mesonwakerkwa.github.io/portofolio) |
 | 🎓 *SMP Negeri 4 Pirime*  | Full school website (HTML/CSS/JS)       | [View](https://mesonwakerkwa.github.io/smpn4pirime) |
-| ☕ *Kopi Tiom*             | Free e-commerce for coffee lovers       | [View](https://mesonwakerkwa.github.io/kopitiom) |
+| ☕ *Kopi Tiom*             | Free e-commerce for coffee lovers       | [View](https://mesonwakerkwa.github.io/kopitio) |
+| ☕ *Kopi Tiom*             | Free e-commerce for coffee lovers       | [Kopi-Tiom](https://wakerkwameson.github.io/Coffee_Tiom.id/) |
+
 
 ---
 
@@ -66,13 +68,13 @@ I love creating **responsive**, **animated**, and **clean designs** using **HTML
 
 ### 📫 Let's Connect
 
-- 📷 **Instagram**: [@mesonwakerkwa](https://instagram.com/mesonwakerkwa)
-- 💼 **LinkedIn**: [Meson Wakerkwa](https://linkedin.com/in/mesonwakerkwa)
-- 🎥 **YouTube**: [Meson Wakerkwa](https://youtube.com/@mesonwakerkwa)
-- 🐱 **GitHub**: [@mesonwakerkwa](https://github.com/mesonwakerkwa)
-- 🐦 **Twitter** (X): [@mesonwakerkwa](https://twitter.com/mesonwakerkwa)
-- 📘 **Facebook**: [Meson Wakerkwa](https://facebook.com/mesonwakerkwa)
-- ✉️ **Email**: mesonwakerkwa@gmail.com
+- 📷 **Instagram**: [@mesonwakerkwa](https://www.instagram.com/meson9918/)
+- 💼 **LinkedIn**: [Meson Wakerkwa](https://www.linkedin.com/in/meson-wakerkwa-a005b4243/)
+- 🎥 **YouTube**: [Meson Wakerkwa](https://www.youtube.com/@Mesonwakerkwa)
+- 🐱 **GitHub**: [@mesonwakerkwa](https://github.com/Meson99W)
+- 🐦 **Twitter** (X): [@mesonwakerkwa](https://x.com/MesonWaker61948)
+- 📘 **Facebook**: [Meson Wakerkwa](https://www.facebook.com/meson.wakerkwa.9918)
+- ✉️ **Email**: mesonwakerkwa734@gmail.com
 
 ---
 
