@@ -66,9 +66,7 @@ I love creating **responsive**, **animated**, and **clean designs** using **HTML
 
 ### 📫 Let's Connect
 
-- 📷 **Instagram**: [Meson9918](https://www.instagram.com/meson9918/) - 💼 **LinkedIn**: [Meson Wakerkwa](https://www.linkedin.com/in/meson-wakerkwa-a005b4243/)
-- 🎥 **YouTube**: [Meson Wakerkwa](https://www.youtube.com/@Mesonwakerkwa) - 🐱 **GitHub**: [Meson99W](https://github.com/Meson99W)
-- 🐦 **Twitter** [Mesonwakerkwa](https://x.com/MesonWaker61948) - 📘 **Facebook**: [Meson Wakerkwa](https://www.facebook.com/meson.wakerkwa.9918)  - ✉️ **Email**: mesonwakerkwa734@gmail.com
+- 📷 **Instagram**: [Meson9918](https://www.instagram.com/meson9918/) - 💼 **LinkedIn**: [Meson Wakerkwa](https://www.linkedin.com/in/meson-wakerkwa-a005b4243/) - 🎥 **YouTube**: [Meson Wakerkwa](https://www.youtube.com/@Mesonwakerkwa) - 🐱 **GitHub**: [Meson99W](https://github.com/Meson99W) - 🐦 **Twitter** [Mesonwakerkwa](https://x.com/MesonWaker61948) - 📘 **Facebook**: [Meson Wakerkwa](https://www.facebook.com/meson.wakerkwa.9918)  - ✉️ **Email**: mesonwakerkwa734@gmail.com
 
 ---
 
