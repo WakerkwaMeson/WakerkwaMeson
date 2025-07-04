@@ -49,9 +49,8 @@ I love creating **responsive**, **animated**, and **clean designs** using **HTML
 
 | Project Name               | Description                             | Link |
 |---------------------------|-----------------------------------------|------|
-| 🌱 *Portofolio Meson*     | Personal portfolio site with Swiper.js  | [View](https://mesonwakerkwa.github.io/portofolio) |
-| 🎓 *SMP Negeri 4 Pirime*  | Full school website (HTML/CSS/JS)       | [View](https://mesonwakerkwa.github.io/smpn4pirime) |
-| ☕ *Kopi Tiom*             | Free e-commerce for coffee lovers       | [View](https://mesonwakerkwa.github.io/kopitio) |
+| 🌱 *Portofolio Meson*     | Personal portfolio site with Swiper.js  | [Portofolio](https://wakerkwameson.github.io/portofolio.app/) |
+| 🎓 *SMP Negeri 4 Pirime*  | Full school website (HTML/CSS/JS)       | [SMP NEGERI 4 PIRIME](https://wakerkwameson.github.io/web-smpn4pirime.io/profil/kepsek.html) |
 | ☕ *Kopi Tiom*             | Free e-commerce for coffee lovers       | [Kopi-Tiom](https://wakerkwameson.github.io/Coffee_Tiom.id/) |
 
 
