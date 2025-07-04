@@ -19,7 +19,7 @@
 ------------------------------------------------------------------------</>>------------------------------------------------------------------------
 
 
-<h1 align="center">Hi, I'm Meson Wakerkwa 👋</h1>
+
 
 <p align="center">
   🔥 Passionate Web Developer | 🧠 Creative Designer | ☕ Coffee Lover
@@ -66,31 +66,17 @@ I love creating **responsive**, **animated**, and **clean designs** using **HTML
 
 ### 📫 Let's Connect
 
-<p align="left">
-  <a href="https://instagram.com/mesonwakerkwa" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="30" />
-  </a>
-  <a href="https://linkedin.com/in/mesonwakerkwa" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" />
-  </a>
-  <a href="https://youtube.com/@mesonwakerkwa" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" alt="YouTube" width="30" />
-  </a>
-  <a href="https://github.com/mesonwakerkwa" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" />
-  </a>
-  <a href="https://twitter.com/mesonwakerkwa" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="30" />
-  </a>
-  <a href="https://facebook.com/mesonwakerkwa" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="30" />
-  </a>
-</p>
-
-✉️ **Email**: mesonwakerkwa@gmail.com
+- 📷 **Instagram**: [@mesonwakerkwa](https://instagram.com/mesonwakerkwa)
+- 💼 **LinkedIn**: [Meson Wakerkwa](https://linkedin.com/in/mesonwakerkwa)
+- 🎥 **YouTube**: [Meson Wakerkwa](https://youtube.com/@mesonwakerkwa)
+- 🐱 **GitHub**: [@mesonwakerkwa](https://github.com/mesonwakerkwa)
+- 🐦 **Twitter** (X): [@mesonwakerkwa](https://twitter.com/mesonwakerkwa)
+- 📘 **Facebook**: [Meson Wakerkwa](https://facebook.com/mesonwakerkwa)
+- ✉️ **Email**: mesonwakerkwa@gmail.com
 
 ---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mesonwakerkwa&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
+
